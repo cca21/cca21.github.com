@@ -1,8 +1,11 @@
 <!-- compile with https://linux.die.net/man/1/markdown -->
-<link rel="stylesheet" type="text/css" href="../media/style.css" />
+<link rel="stylesheet" type="text/css" href="cca21.github.io/media/style.css" />
+
 # Macaroni and Cheese
 #### Basic macaroni and cheese recipe for beginners.
+
 ***
+
 ## Ingredients
 - Macaroni
 - Shredded Cheese
@@ -19,4 +22,4 @@
 - Dump macaroni back into the pot and mix with sauce.
 ### Scroll for image
 ***
-![image](../image/mac.jpg)
+![image](cca21.github.io/image/mac.jpg)
