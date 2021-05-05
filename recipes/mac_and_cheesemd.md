@@ -1,4 +1,3 @@
-<!--<link rel="stylesheet" type="text/css" href="cca21.github.io/media/style.css" />-->
 # Macaroni and Cheese
 #### Basic macaroni and cheese recipe for beginners.
 
