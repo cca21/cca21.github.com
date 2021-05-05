@@ -1,0 +1,42 @@
+* {
+	--bg: #DED;
+	--tx: #124;
+	--tran: #0000;
+	font-family: 'Source Serif Pro', serif;
+	font-size: 24pt;
+	src:url(cdn/font/SourceSerifPro-Regular.otf) format('otf'),
+		url(cdn/font/SourceSerifPro-Regular.ttf) format('truetype');
+	background-color: var(--bg);
+	color: var(--tx);
+}
+body { padding: 2%; }
+hr {
+	color: var(--tran);
+	background-color: var(--tx);
+}
+h1 { font-size: 40pt; line-height: 100%; } /* title */
+h2 { font-size: 30pt; } /* sections */
+h3 { /* scroll for image */
+	font-weight: normal;
+	font-size: 16pt;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 16px;
+	}
+h4 { /* caption */
+	font-weight: 600;
+	font-style: italic;
+	line-height: 100%;
+}
+ul { list-style: none; }
+li::before {
+	content: ":";
+    color: var(--text);
+	padding-left: 1%;
+	padding-right: 1%;
+}
+img {
+	float: both;
+	width: 100%;
+	background-position: center;
+}
