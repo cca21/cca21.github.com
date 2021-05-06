@@ -19,4 +19,4 @@
 - Dump macaroni back into the pot and mix with sauce.
 ### Scroll for image
 ***
-![image](media/image/mac.jpg)
+![image](/media/images/mac.jpg)
