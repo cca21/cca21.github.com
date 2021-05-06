@@ -1,1 +1,3 @@
-theme: no
+css:
+  css_dir: _css
+  
