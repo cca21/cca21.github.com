@@ -1,3 +1,4 @@
+{% include head.html %}
 # Macaroni and Cheese
 #### Basic macaroni and cheese recipe for beginners.
 
