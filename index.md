@@ -1,18 +1,20 @@
-# TEST
-#### Test.
+# easycookin'
+#### Recipes for beginners.
 
 ***
 
-## Test
-- TEST
-- test
-- Test
-- TeSt
+## Why?
+- This website helps beginners to learn how
+- to cook on their own.
 
-## Test
-- asdf
-  - asdf
-- asdf
-### Scroll for image
+## How can this help me?
+- This website has simple recipes in simple English,
+- so anyone can understand how to cook!
+
+## How can this help me?
+- Yes! Just make sure your recipes are simple to follow,
+- simple to understand, and simple to obtain.
+
+### Thank you for visiting!
+
 ***
-![image](../media/images/mac.jpg)
