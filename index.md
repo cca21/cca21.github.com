@@ -11,7 +11,7 @@
 - This website has simple recipes in simple English,
 - so anyone can understand how to cook!
 
-## How can this help me?
+## Can I help?
 - Yes! Just make sure your recipes are simple to follow,
 - simple to understand, and simple to obtain.
 
