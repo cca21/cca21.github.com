@@ -47,5 +47,5 @@ img {
 	background-position: center;	
 }
 a[href] { /* apply to every link */
-	color: --ln;
+	color: var(--ln);
 }
