@@ -1,5 +1,5 @@
 # easycookin'
-#### Recipes for beginners.
+### Recipes for beginners.
 
 ***
 
