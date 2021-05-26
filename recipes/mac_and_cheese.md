@@ -1,11 +1,14 @@
 # Macaroni and Cheese
 ### Basic macaroni and cheese recipe for beginners.
+
 ***
+
 ## Ingredients
 - Macaroni
 - Shredded Cheese
 - Milk
 - Butter
+
 ## Instructions
 - Set water to boil on high.
 - Dump macaroni into pot.
@@ -14,4 +17,5 @@
 - In the pot that had the macaroni, add cheese, butter, and milk.
 	- If the sauce does not liquify, set the stove to low.
 - Dump macaroni back into the pot and mix with sauce.
+
 ![image](../media/images/mac.jpg)
