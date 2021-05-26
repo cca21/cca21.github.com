@@ -15,9 +15,10 @@ hr {
 	color: var(--tran);
 	background-color: var(--tx);
 }
+h1,h2,h3,h4,h5,h6 { line-height: normal; }
 h1 { font-size: 40pt; } /* title */
 h2 { font-size: 30pt; } /* sections */
-h3 { font-size: 16pt; font-style: italic; } /* caption */
+h3 { font-size: 24pt; font-style: italic; } /* caption */
 /*
 h3 { / * scroll for image - do i need this? probably not... * /
 	font-weight: normal;
