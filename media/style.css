@@ -15,8 +15,9 @@ hr {
 	color: var(--tran);
 	background-color: var(--tx);
 }
-h1 { font-size: 40pt; line-height: 1%; } /* title */
+h1 { font-size: 40pt; } /* title */
 h2 { font-size: 30pt; } /* sections */
+h3 { font-size: 16pt; font-style: italic;}
 /*
 h3 { / * scroll for image - do i need this? probably not... * /
 	font-weight: normal;
@@ -26,11 +27,11 @@ h3 { / * scroll for image - do i need this? probably not... * /
 	letter-spacing: 16px;
 	}
 */
-h3 { /* caption */
+/*h3 { / * caption * /
 	font-weight: 600;
 	font-style: italic;
 	line-height: 100%;
-}
+} */
 ul { list-style: none; }
 li::before {
 	content: ":";
