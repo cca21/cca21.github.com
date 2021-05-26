@@ -6,8 +6,9 @@
   </head>
   <body>
     <!-- Figure out how to add catalog, n handling text n screen overflow -->
-    {{ % for p in site.pages % }}
+    { % for p in site.pages % }
       {{ p.title }}
+    { % endfor % }
     {{ content }}
   </body>
 </html>
