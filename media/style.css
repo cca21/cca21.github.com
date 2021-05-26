@@ -14,7 +14,7 @@ hr {
 	color: var(--tran);
 	background-color: var(--tx);
 }
-h1 { font-size: 40pt; line-height: 0%; } /* title */
+h1 { font-size: 40pt; line-height: 1%; } /* title */
 h2 { font-size: 30pt; } /* sections */
 h3 { /* scroll for image */
 	font-weight: normal;
