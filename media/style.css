@@ -17,14 +17,16 @@ hr {
 }
 h1 { font-size: 40pt; line-height: 1%; } /* title */
 h2 { font-size: 30pt; } /* sections */
-h3 { /* scroll for image - do i need this? probably not... */
+/*
+h3 { / * scroll for image - do i need this? probably not... * /
 	font-weight: normal;
 	font-size: 16pt;
 	text-transform: uppercase;
 	text-align: center;
 	letter-spacing: 16px;
 	}
-h4 { /* caption */
+*/
+h3 { /* caption */
 	font-weight: 600;
 	font-style: italic;
 	line-height: 100%;
