@@ -7,7 +7,7 @@
   <body>
     <!-- Figure out how to add catalog, n handling text n screen overflow -->
     {% for pg in site.pages %}
-      <p href={{ pg.url }}>{{ pg.title }}</p>
+      <a href={{ pg.url }}>{{ pg.title }}</a>
     {% endfor %}
     <hr />
     {{ content }}
