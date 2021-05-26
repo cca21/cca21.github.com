@@ -46,6 +46,6 @@ img {
 	width: 100%;
 	background-position: center;	
 }
-*[href] { /* apply to every link */
+*[href^=*] { /* apply to every link */
 	color: --ln;
 }
