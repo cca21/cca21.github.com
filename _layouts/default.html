@@ -6,9 +6,10 @@
   </head>
   <body>
     <!-- Figure out how to add catalog, n handling text n screen overflow -->
-    {% for p in site.pages %}
-      {{ p.title }}
+    {% for pg in site.pages %}
+      {{ <p href={{ pg.url }}> pg.title </p> }}
     {% endfor %}
+    <hr />
     {{ content }}
   </body>
 </html>
