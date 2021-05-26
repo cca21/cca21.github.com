@@ -1,6 +1,7 @@
 * {
 	--bg: #DED;
 	--tx: #124;
+	--ln: #499;
 	--tran: #0000;
 	font-family: 'Source Serif Pro', serif;
 	font-size: 24pt;
@@ -16,7 +17,7 @@ hr {
 }
 h1 { font-size: 40pt; line-height: 1%; } /* title */
 h2 { font-size: 30pt; } /* sections */
-h3 { /* scroll for image */
+h3 { /* scroll for image - do i need this? probably not... */
 	font-weight: normal;
 	font-size: 16pt;
 	text-transform: uppercase;
@@ -38,6 +39,8 @@ li::before {
 img {
 	float: both;
 	width: 100%;
-	background-position: center;
-	
+	background-position: center;	
+}
+*[href] { /* apply to every link */
+	color: --ln;
 }
