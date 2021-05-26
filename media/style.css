@@ -17,7 +17,7 @@ hr {
 }
 h1 { font-size: 40pt; } /* title */
 h2 { font-size: 30pt; } /* sections */
-h3 { font-size: 16pt; font-style: italic;}
+h3 { font-size: 16pt; font-style: italic; } /* caption */
 /*
 h3 { / * scroll for image - do i need this? probably not... * /
 	font-weight: normal;
