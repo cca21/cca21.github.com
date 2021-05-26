@@ -18,4 +18,6 @@
 	- If the sauce does not liquify, set the stove to low.
 - Dump macaroni back into the pot and mix with sauce.
 
+***
+
 ![image](../media/images/mac.jpg)
