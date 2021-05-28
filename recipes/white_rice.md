@@ -13,8 +13,7 @@
 - Drain water
 - Repeat until grains are white
 - Boil water
-- Put rice into the boiling water
-### editors note: find better word than "put"
+- Pour rice into the boiling water
 - Boil until grains are fluffy & longer than they were.
 
 ***
