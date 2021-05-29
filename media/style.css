@@ -14,6 +14,8 @@ body { padding: 2%; }
 hr {
 	color: var(--tran);
 	background-color: var(--tx);
+	border-left : 20px solid var(--tx);
+	border-right: 20px solid var(--tx);
 }
 h1,h2,h3,h4,h5,h6 { line-height: normal; }
 h1 { font-size: 40pt; } /* title */
