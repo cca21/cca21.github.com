@@ -1,4 +1,4 @@
-# White Rice (Palau)
+# White Rice (Chalau)
 ### Plain white rice.
 
 ***
