@@ -1,10 +1,11 @@
 * {
 	padding: 0%;
-	margin: 0%;
+	margin: 1%;
 	--bg: #DED;
 	--tx: #124;
 	--ln: #499;
 	--tran: #0000;
+	line-height: normal;
 	font-family: 'Source Serif Pro', serif;
 	font-size: 20pt;
 	src:url(cdn/font/SourceSerifPro-Regular.otf) format('otf'),
@@ -19,12 +20,9 @@ hr {
 	border-left : 20px solid var(--tx);
 	border-right: 20px solid var(--tx);
 }
-/*hr::before,
-hr::after { content:'';width:10px;height:10px; }*/
-h1,h2,h3,h4,h5,h6 { line-height: normal; }
-h1 { font-size: 40pt; } /* title */
-h2 { font-size: 25pt; } /* sections */
-h3 { font-size: 20pt; font-style: italic; } /* caption */
+h1 { font-size: 40pt; padding: 0%; margin: 0%; } /* title */
+h2 { font-size: 25pt; padding: 0%; margin: 0%; } /* sections */
+h3 { font-size: 20pt; font-style: italic; padding: 0%; margin: 0%; } /* caption */
 p, a { display: inline; }
 ul { list-style: none; }
 li::before {
