@@ -4,7 +4,7 @@
 	--ln: #499;
 	--tran: #0000;
 	font-family: 'Source Serif Pro', serif;
-	font-size: 24pt;
+	font-size: 12pt;
 	src:url(cdn/font/SourceSerifPro-Regular.otf) format('otf'),
 		url(cdn/font/SourceSerifPro-Regular.ttf) format('truetype');
 	background-color: var(--bg);
@@ -20,9 +20,9 @@ hr {
 /*hr::before,
 hr::after { content:'';width:10px;height:10px; }*/
 h1,h2,h3,h4,h5,h6 { line-height: normal; }
-h1 { font-size: 40pt; } /* title */
-h2 { font-size: 30pt; } /* sections */
-h3 { font-size: 24pt; font-style: italic; } /* caption */
+h1 { font-size: 30pt; } /* title */
+h2 { font-size: 20pt; } /* sections */
+h3 { font-size: 16pt; font-style: italic; } /* caption */
 p, a { display: inline; }
 ul { list-style: none; }
 li::before {
