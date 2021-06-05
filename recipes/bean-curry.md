@@ -15,8 +15,10 @@
 - 1 whole onion, finely chopped
 
 ## Instructions
+
 #### First day
 - Leave the beans underwater overnight.
+
 #### Second day
 - Drain the beans.
 - Pour the beans into a pot.
