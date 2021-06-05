@@ -39,6 +39,6 @@ a[href] { /* apply to every link */
 	color: var(--ln);
 }
 div.middleset {
-	margin-left:  auto;
-	margin-right: auto;
+	display: flex;
+	justify-content: center;
 }
