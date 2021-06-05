@@ -37,8 +37,10 @@ img {
 }
 a[href] { /* apply to every link */
 	color: var(--ln);
+	margin: 1%;
 }
 div.middleset {
 	display: flex;
 	justify-content: center;
+	
 }
