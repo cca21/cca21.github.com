@@ -18,4 +18,5 @@
 
 ***
 
+### Note: The yellow rice on top is made with saffron, which I did not say here.
 ![image](../media/images/chalau.png)
