@@ -35,11 +35,10 @@ img {
 	width: 100%;
 	background-position: center;	
 }
-a[href] { /* apply to every link */
+a[href, want] { /* apply to every link */
 	color: var(--ln);
 }
 div.middleset {
 	display: flex;
 	justify-content: space-evenly;
-	
 }
