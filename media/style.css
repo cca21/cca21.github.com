@@ -38,3 +38,7 @@ img {
 a[href] { /* apply to every link */
 	color: var(--ln);
 }
+.middleset {
+	text-align: middle;
+	text-justify: auto;
+}
