@@ -7,7 +7,8 @@
   <body>
     <div class="middleset">
       {% for pg in site.pages %}
-        <a href={{ pg.url }}>{{ pg.title }}</a>
+        {% if pg.name contains ".htm" or pg.name contains ".md" %}
+          <a href={{ pg.url }}>{{ pg.title }}</a>
       {% endfor %}
     </div>
     <hr />
