@@ -5,10 +5,11 @@
     <link rel="stylesheet" href="/media/style.css" />
   </head>
   <body>
-    <!-- Figure out how to add catalog, n handling text n screen overflow -->
-    {% for pg in site.pages %}
-      <a href={{ pg.url }}>{{ pg.title }}</a>
-    {% endfor %}
+    <div class="middleset">
+      {% for pg in site.pages %}
+        <a href={{ pg.url }}>{{ pg.title }}</a>
+      {% endfor %}
+    </div>
     <hr />
     {{ content }}
   </body>
